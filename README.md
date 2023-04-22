@@ -1,1 +1,1 @@
-# exercicioas-iniciante
+# exercícios iniciante
